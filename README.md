@@ -8,9 +8,9 @@ https://catalog.data.gov/dataset/electric-vehicle-population-data
 ## Access & Use Information
 
 Public: This dataset is intended for public access and use.
+
 Non-Federal: This dataset is covered by different Terms of Use than Data.gov.
+
 License: http://opendatacommons.org/licenses/odbl/1.0/
 
-Topics: Local Government
-Default Publisher: data.wa.gov
-Contact: Department of Licensing
+Topics: Local Government | Default Publisher: data.wa.gov | Contact: Department of Licensing
