@@ -1,7 +1,7 @@
 # Electric-Vehicles-Population-Data-Study-with-Tesla-Data-Case-Study
 
 The dataset used in the project file shows the Battery Electric Vehicles (BEVs) and Plug-in Hybrid Electric Vehicles (PHEVs) that are currently registered through Washington State Department of Licensing (DOL).
-Since the dataset is larger than 25MB, please check the link below to access the dataset.
+Since the dataset is larger than 25MB, I can only link the source of the dataset. Please check the link below to access the dataset.
 
 https://catalog.data.gov/dataset/electric-vehicle-population-data
 
